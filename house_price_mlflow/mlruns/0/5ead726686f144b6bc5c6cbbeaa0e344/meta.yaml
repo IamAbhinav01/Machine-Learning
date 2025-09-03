@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ead726686f144b6bc5c6cbbeaa0e344/artifacts
+end_time: 1755010490313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ead726686f144b6bc5c6cbbeaa0e344
+run_name: gregarious-ox-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755010490270
+status: 4
+tags: []
+user_id: Abhin

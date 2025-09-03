@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/af6f2bb36205442ab3a2f51efc0e9a18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af6f2bb36205442ab3a2f51efc0e9a18
+run_name: chill-crane-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755014085655
+status: 1
+tags: []
+user_id: Abhin

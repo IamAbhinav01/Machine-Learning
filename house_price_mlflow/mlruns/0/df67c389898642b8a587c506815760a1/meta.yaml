@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/df67c389898642b8a587c506815760a1/artifacts
+end_time: 1755013224963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df67c389898642b8a587c506815760a1
+run_name: painted-foal-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755012060213
+status: 4
+tags: []
+user_id: Abhin

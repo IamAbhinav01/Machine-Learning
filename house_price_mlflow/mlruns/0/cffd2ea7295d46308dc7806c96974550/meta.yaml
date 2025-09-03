@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cffd2ea7295d46308dc7806c96974550/artifacts
+end_time: 1755010467207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cffd2ea7295d46308dc7806c96974550
+run_name: wise-bat-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755010467189
+status: 4
+tags: []
+user_id: Abhin

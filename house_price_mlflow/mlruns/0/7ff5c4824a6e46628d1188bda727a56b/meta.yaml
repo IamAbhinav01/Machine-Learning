@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7ff5c4824a6e46628d1188bda727a56b/artifacts
+end_time: 1755013635239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ff5c4824a6e46628d1188bda727a56b
+run_name: orderly-snail-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755013443903
+status: 4
+tags: []
+user_id: Abhin

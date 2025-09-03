@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a68680d02d7d401e85d380af3829c5af/artifacts
+end_time: 1755012031824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a68680d02d7d401e85d380af3829c5af
+run_name: popular-dove-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755011480643
+status: 4
+tags: []
+user_id: Abhin
